@@ -1,0 +1,12 @@
+#comic_strip img {
+	/* Center horizontally */
+    display: block;
+    margin: auto;
+}
+
+#title {
+	/* XKCD style title */
+	text-align: center;
+	font-variant: small-caps;
+	font-family: Lucida, Helvetica, sans-serif;
+}
